@@ -15,7 +15,6 @@
             }
 
             string reversed = new string(charArray);
-            Console.WriteLine(input);
             Console.WriteLine(reversed);
         }
     }
